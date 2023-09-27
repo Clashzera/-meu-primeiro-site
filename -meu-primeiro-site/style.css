@@ -1,0 +1,13 @@
+header {
+    background-color: black;
+    color: antiquewhite;
+}
+
+.cabecalho-imagem{
+    width: 20%;
+}
+
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16;
+}
